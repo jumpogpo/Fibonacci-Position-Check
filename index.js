@@ -10,7 +10,7 @@ function CheckFibonacci(Position) {
     var One = 1
     var Two = 1
     var Three
-    var OneLineNumber = ""
+    var OneLineNumber = "1 1 "
 
     for (let i = 1; i <= Position; i++) {
         Three = One + Two
