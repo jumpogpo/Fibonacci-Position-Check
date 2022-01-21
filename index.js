@@ -7,12 +7,12 @@ process.stdout.write(
 
 function CheckFibonacci(Position) {
     console.clear()
-    var One = 1
+    var One = 0
     var Two = 1
     var Three
-    var OneLineNumber = "1 1 "
+    var OneLineNumber = "0 1 "
 
-    for (let i = 1; i <= Position; i++) {
+    for (let i = 3; i <= Position; i++) {
         Three = One + Two
         OneLineNumber += Three + " "
         One = Two
