@@ -3,4 +3,4 @@
 ### Requirement
 - prompt-sync
 
-This project makes for education only!! Create By: jumpogpo (Thanapat Koedpiam)
+This project makes for education only!! Create By: jumpogpo
